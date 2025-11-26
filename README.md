@@ -1,7 +1,7 @@
 # EE016-ML-digit-recognition
 
 **Author:** Steve Li  
-**Course:** EE016 - Introduction to Machine Learning  
+**Course:** EE016  
 **Institution:** University of California, Riverside  
 **Term:** Fall 2025
 
